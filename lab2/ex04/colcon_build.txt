@@ -1,0 +1,5 @@
+Starting >>> my_package
+Finished <<< my_package [1.31s]
+
+Summary: 1 package finished [1.64s]
+  1 package had stderr output: my_package
